@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on bots / windows tools, i would love if some one teach me how to use 
       inputs out side of a running program and how to simulate key strokes im willing to use python if some one will teach me
-- 📫 How to reach me Discord servers https://discord.gg/Rm9sVvNxss   https://discord.gg/RJDwNR3AeU   Discord Id  Frumppy Beef#4160
+- 📫 How to reach me Discord servers https://discord.gg/RJDwNR3AeU   Discord Id  Frumppy Beef#4160
 email thomasbethell123@gmail.com
 
 <!---
